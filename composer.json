@@ -1,0 +1,28 @@
+{
+    "name": "laravel-studio/calculator",
+    "description": "Custom Package to create a calculator",
+    "require-dev": {
+        "facade/ignition": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Laravel Studio",
+            "email": "developer@laravel-studio.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "laravelstudio\\calculator\\CalculatorServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "laravelstudio\\Calculator\\": "src/"
+        }
+    }
+
+}
