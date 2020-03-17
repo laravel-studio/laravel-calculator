@@ -1,4 +1,4 @@
-# Laravel Simple Calculator
+# Laravel Simple Calculator 
 
 [![release](https://img.shields.io/github/release/laravel-studio/laravel-calculator?style=flat)](https://github.com/laravel-studio/laravel-calculator/releases)
 [![issues](https://img.shields.io/github/issues/laravel-studio/laravel-calculator?style=flat)](https://github.com/laravel-studio/laravel-calculator/issues)
