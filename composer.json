@@ -1,6 +1,8 @@
 {
     "name": "laravel-studio/calculator",
     "description": "Custom Package to create a calculator",
+    "keywords": ["laravel", "calculator"],
+    "license": "MIT",
     "require-dev": {
         "facade/ignition": "^2.0@dev"
     },
